@@ -7,3 +7,6 @@ pypdf
 bs4
 arxiv # archive(research articles) loader
 pymupdf # required for archive loader
+
+# splitting documents
+langchain-text-splitters
