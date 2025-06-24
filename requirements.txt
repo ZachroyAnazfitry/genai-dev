@@ -3,3 +3,7 @@ ipykernel
 python-dotenv
 langchain_community
 pypdf
+# scrapping web pages
+bs4
+arxiv # archive(research articles) loader
+pymupdf # required for archive loader
