@@ -1,12 +1,20 @@
 langchain
 ipykernel
-python-dotenv
+python-dotenv #load env variables
 langchain_community
 pypdf
-# scrapping web pages
-bs4
+
+bs4 # scrapping web pages
 arxiv # archive(research articles) loader
 pymupdf # required for archive loader
 
 # splitting documents
 langchain-text-splitters
+
+# openai library
+langchain-openai
+chromadb # vector database
+
+# huggingface embeddings
+sentence-transformers # for embeddings
+langchain-huggingface # for huggingface embeddings
