@@ -18,3 +18,7 @@ chromadb # vector database
 # huggingface embeddings
 sentence-transformers # for embeddings
 langchain-huggingface # for huggingface embeddings
+
+#vector database
+#faiss-cpu 
+langchain_chroma

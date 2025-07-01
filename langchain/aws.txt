@@ -1,0 +1,8 @@
+Deployment on AWS with Laravel
+AWS offers a Free Tier that includes many services useful for deploying Laravel apps, such as AWS Lambda, API Gateway, and Lightsail. For example, AWS Lambda provides 1 million free requests and 400,000 GB-seconds of compute time per month under its free tier, which is suitable for serverless deployment of Laravel APIs.
+
+You can deploy Laravel on AWS using services like AWS API Gateway and AWS Lambda with tools such as the Serverless Framework and Bref package, which help package and deploy Laravel applications serverlessly. This approach is cost-effective because you pay only for usage beyond the free tier, and the services scale automatically.
+
+Alternatively, AWS Lightsail offers simple VPS instances starting as low as $3.50/month, which can run a LAMP/LEMP stack for Laravel with MySQL, suitable for small projects or testing.
+
+For easier deployment and management, you can also consider Laravel Cloud, a new platform designed specifically for Laravel apps that offers a free tier for beginners, seamless deployment, and scaling as your project grows
